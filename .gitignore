@@ -219,3 +219,5 @@ ui-tests/playwright-report
 # custom
 /FullIJCNN2013/
 /yolov7/
+/dataset_yolo/*
+!/dataset_yolo/data.yaml
