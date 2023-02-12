@@ -218,6 +218,11 @@ ui-tests/playwright-report
 
 # custom
 /FullIJCNN2013/
-/yolov7/
+/yolov7/*
 /dataset_yolo/*
 !/dataset_yolo/data.yaml
+/dataset_tf_csv/
+/DriveData/
+/model-maker/
+/yolo_tflite/
+/yolo_to_tf/
