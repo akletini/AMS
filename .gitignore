@@ -226,3 +226,4 @@ ui-tests/playwright-report
 /model-maker/
 /yolo_tflite/
 /yolo_to_tf/
+/CNNmodelCreation/dataset
